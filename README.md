@@ -1,2 +1,0 @@
-# GodotWorkshopWalkthrough
-Godot Workshop Walkthrough
